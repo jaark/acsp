@@ -17,7 +17,7 @@
     "buffer-reader": "^0.1.0",
     "buffer-write": "0.0.2",
     "debug": "^2.2.0",
-    "lodash": "^3.10.0",
+    "lodash": "^4",
     "promise-queue": "^2.1.1"
   },
   "_shasum": "8dae4c73e4c85eff81cd5c3e31e7b46e7ff735cd",
